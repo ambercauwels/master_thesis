@@ -1,0 +1,2 @@
+lep_pt	AK8_pt	AK4_pt	M_sd	genWeights	sumWeight	N_exp
+107.03878	443.5	80.8125	131.625	72.6983	95180830.0	12199200

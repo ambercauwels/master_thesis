@@ -1,0 +1,8 @@
+*.sh
+*.log
+*.err
+*.root
+*.pdf
+*.submit
+*.out
+*.json

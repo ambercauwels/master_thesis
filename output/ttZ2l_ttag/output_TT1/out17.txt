@@ -1,0 +1,2 @@
+lep_pt	genWeights	sumWeight	N_exp
+69.643326	72.6983	13841465.0	12199200

@@ -1,0 +1,2 @@
+lep_pt	AK8_pt	genWeights	sumWeight	N_exp
+286.1723	398.5	0.61813426	31798.062	33941
